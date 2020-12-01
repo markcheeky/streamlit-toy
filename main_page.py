@@ -7,7 +7,7 @@ from streamlit_cheatsheet import cheatsheet
 
 
 def tab1():
-    st.title("hello from tab 1")
+    st.title("hello from updated repo")
 
 
 def tab2():
